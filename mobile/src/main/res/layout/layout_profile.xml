@@ -65,6 +65,7 @@
             android:contentDescription="@string/share"
             android:focusable="true"
             android:nextFocusLeft="@+id/container"
+            android:visibility="invisible"
             android:padding="12dp"
             app:srcCompat="@drawable/ic_social_share"/>
     </LinearLayout>
